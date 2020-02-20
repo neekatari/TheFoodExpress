@@ -1,0 +1,26 @@
+
+.up{
+  padding: 21%;
+  width: 100% !important;
+  background-image: url("./images/loginb.jpg");
+  
+}
+
+.form-control{
+  padding: 10px;
+}
+
+.btn{
+  padding: 10px;
+}
+
+.btn-outline{
+  border: 1px solid white !important;
+  color: white !important;
+  background-color: transparent !important;
+}
+
+.btn-outline:hover{
+  color:white !important;
+  background-color:rgba(0, 0, 0, 0.5) !important;
+}
