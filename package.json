@@ -7,7 +7,7 @@
     "firebase": "^6.6.2",
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "noty": "^3.2.0-beta",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
